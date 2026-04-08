@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/My VR World/Scene/Demo 4.unity
+    guid: 18ccbd654fb425a439142cbff5de06a5
+  - enabled: 1
+    path: Assets/My VR World/Scene/My VR Scene.unity
+    guid: f01bcb2621b81a546b966d477b6664bc
+  - enabled: 1
     path: Assets/UltimateXR/Examples/FullScene/UltimateXR_URP.unity
     guid: d026aa0551d251248a15d6e236c7803d
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
-  - enabled: 1
-    path: Assets/My VR World/Scene/My VR Scene.unity
-    guid: f01bcb2621b81a546b966d477b6664bc
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 997d6776369caf442b9d0da6c4b534fc, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
